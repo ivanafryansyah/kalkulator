@@ -1,0 +1,10 @@
+D:\LSP\KalkulatorIvan\bin\Debug\KalkulatorIvan.exe.config
+D:\LSP\KalkulatorIvan\bin\Debug\KalkulatorIvan.exe
+D:\LSP\KalkulatorIvan\bin\Debug\KalkulatorIvan.pdb
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.csprojAssemblyReference.cache
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.Form1.resources
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.Properties.Resources.resources
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.csproj.GenerateResource.cache
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.csproj.CoreCompileInputs.cache
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.exe
+D:\LSP\KalkulatorIvan\obj\Debug\KalkulatorIvan.pdb
